@@ -1,0 +1,6 @@
+name: NexusMinecraft
+version: '${project.version}'
+main: cc.projectnexus.integrations.nexusmc.NexusMinecraft
+api-version: 1.19
+authors: [Xemu]
+description: Don't allow connections from users that is banned from Nexus.
